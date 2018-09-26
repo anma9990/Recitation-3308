@@ -4,5 +4,4 @@ This will cause a merge conflict
 More merge conflicts!
 Merge conflicts for days
 Version Control
-This might cause a merge conflict
-another try to cause a merge conflict
+This might cause a merge conflictt
